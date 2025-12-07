@@ -52,7 +52,8 @@ env/
 Thumbs.db
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
+# Note: .streamlit/config.toml should be committed for deployment
 
 # Logs
 *.log
